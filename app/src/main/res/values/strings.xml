@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">QuickFixTrade(Team Project)</string>
+    <string name="already_have_an_account">Already Have an Account</string>
+    <string name="todo">TODO</string>
+    <string name="password">Password</string>
+    <string name="click_here">Click Here</string>
+    <string name="register_here">Register Here</string>
+    <string name="todo">TODO</string>
+    <string name="register_here">Register Here</string>
+    <string name="register_here">Register Here</string>
+    <string name="register">Register</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="register_now">Register Now</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="todo">TODO</string>
+    <string name="home">Home</string>
+    <string name="browse">Browse</string>
+    <string name="search">Search</string>
+    <string name="todo">TODO</string>
+    <string name="dublin">Dublin</string>
+    <string name="jane_doe">Jane Doe</string>
+    <string name="_0877562263">0877562263</string>
+    <string name="_0872037711">0872037711</string>
+</resources>
